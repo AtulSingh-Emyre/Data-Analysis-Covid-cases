@@ -1,0 +1,13 @@
+{
+"data" : [
+    {
+    "file" :  "COVID-19-geographic-disbtribution-worldwide-2020-11-28",
+    "source" : "https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide",
+    "description" : "Day wise data on cumulative cases, deaths, population of every country",
+    "title" : "Cases Density"
+    },
+    {
+        
+    }  
+]
+} 

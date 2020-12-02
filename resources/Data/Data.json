@@ -19,6 +19,12 @@
      "description" : "Day wise cases world wide, easier to use format",
      "title" : "Cases Density"   
     },
+    {
+        "file" : "statistic_id1110522_number-of-covid-19-cases-india-2020-by-age-group",
+        "source" : "https://www.statista.com/statistics/1110522/india-number-of-coronavirus-cases-by-age-group/",
+        "description" : "Age group wise data",
+        "title" : "Age"
+    }   
     
 ]
 } 

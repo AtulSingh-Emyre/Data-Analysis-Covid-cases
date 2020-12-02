@@ -42,17 +42,6 @@ Conclusion : -----
 Conclusion : -----
 </p></li>
 
-<li> <h5> Altitude :</h5> (we cover 2 diseases)
-<p> Statement : <to be filled> </p>
-<p> Math : H0,H1, calculations... (using categorical data) </p>
-<p> Graphical representation of the above :<br>
-<ul> 
-<li> Altitude of different countries - bar graph </li> 
-<li> cases in corresponding countries - line graph (to be plotted in same graph as above) </li>
-</ul>
-Conclusion : -----
-</p></li>
-
 
 <li> <h5> Altitude :</h5>
 <p> Statement : We expect to see more cases in areas with higher altitude </p>
